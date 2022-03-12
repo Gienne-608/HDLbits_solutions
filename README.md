@@ -1,2 +1,2 @@
 # HDLbits_solutions
-Solutions based on HDLbits
+Solutions and notes based on HDLbits
